@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/ProyectoMinecraft/app/src/main/res/layout/activity_autores.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/ProyectoMinecraft/app/src/main/res/layout/activity_creeper.xml" value="0.1526268115942029" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/ProyectoMinecraft/app/src/main/res/layout/activity_escena.xml" value="0.1526268115942029" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/ProyectoMinecraft/app/src/main/res/layout/activity_escena_dia.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/ProyectoMinecraft/app/src/main/res/layout/activity_escena_noche.xml" value="0.14356884057971014" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/ProyectoMinecraft/app/src/main/res/layout/activity_escenas.xml" value="0.1480978260869565" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/ProyectoMinecraft/app/src/main/res/layout/activity_humano.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/ProyectoMinecraft/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/ProyectoMinecraft/app/src/main/res/layout/activity_personajes.xml" value="0.10564516129032259" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/ProyectoMinecraft/app/src/main/res/layout/activity_zombie.xml" value="0.1480978260869565" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

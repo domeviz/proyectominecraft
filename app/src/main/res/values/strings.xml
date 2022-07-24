@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Minecraft</string>
+    <string name="Musica">Musica</string>
+    <string name="Autora">Autora</string>
+    <string name="Escena">Escenas</string>
+    <string name="EscenaDia">Escena Dia</string>
+    <string name="EscenaNoche">Escena Noche</string>
+    <string name="Creeper">Creeper</string>
+    <string name="Humano">Humano</string>
+    <string name="Personajes">Personajes</string>
+    <string name="Zombie">Zombie</string>
+    <string name="Cerrar">Cerrar</string>
+</resources>
